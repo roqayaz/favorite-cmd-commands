@@ -1,0 +1,6 @@
+1- touch <file name> : create a new and empty file.
+2- cd <folder name> : change the directory.
+3- ls : list files in the current directory.
+4- start <file name> : open a file using its default application.
+5- code . : open current directory in code editor.
+6- mkdir <file name> : create a folder or directory.
